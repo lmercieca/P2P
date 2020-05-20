@@ -1,0 +1,18 @@
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojAssemblyReference.cache
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CopyComplete
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb

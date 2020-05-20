@@ -1,0 +1,11 @@
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\bin\Debug\Shared.pdb
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.dll
+c:\C# Projects\GetConnected\Shared\obj\Debug\Shared.pdb
+C:\C# Projects\GetConnected\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\bin\Debug\Shared.dll
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\bin\Debug\Shared.pdb
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\obj\Debug\Shared.dll
+C:\Users\Loui\Downloads\P2Pchat-master(2)\P2P\Shared\obj\Debug\Shared.pdb
